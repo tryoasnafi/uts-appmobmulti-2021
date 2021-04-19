@@ -1,4 +1,3 @@
-A simple command-line application.
+# UTS Pengembangan Aplikasi Mobile Multiplatform
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Jawaban soal Ujian Tengah Semester Mata Kuliah Pengembangan Aplikasi Mobile Multiplatform.
